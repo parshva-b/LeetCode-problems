@@ -17,6 +17,4 @@ public class Solution {
         
         return true;
     }
-}class HappyNumber {
-    
 }
