@@ -3,8 +3,9 @@ Competitive-Coding
 
 All the submissions are in `Java`
 
-April | Done 
+Challenge | Status 
 --- | --- |
+April | Done
 May | In progress | 
 
 **Note:** Some problems might not be present since the problems might be locked
