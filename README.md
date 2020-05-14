@@ -1,7 +1,12 @@
 # LeetCode-problems
 Competitive-Coding
 
-This is the repo I have published after completing April Month LeetCode
-I am also going to continue the same for May.
+All the submissions are in `Java`
 
-```Java``` is the language used
+April | Done 
+--- | --- |
+May | In progress | 
+
+**Note:** Some problems might not be present since the problems might be locked
+
+LeetCode URL: [parshva_b](https://leetcode.com/parshva_b/)
